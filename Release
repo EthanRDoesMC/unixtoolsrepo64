@@ -1,0 +1,8 @@
+Origin: UnixToolsRepo64
+Label: Label is not usually visible except in package description views
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Put a description in the Release file.

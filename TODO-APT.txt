@@ -1,0 +1,9 @@
+Here’s what needs to be done to create a nice repo:
+
+Add CydiaIcon.png to the root of the repository. It is displayed at 32x32, and it would be best for the file to be at Retina resolution (64x64 for @2x and 96x96 for @3x).
+
+
+Update fields in the Release file
+
+
+Add depictions (which can be handled nicely through JS)
